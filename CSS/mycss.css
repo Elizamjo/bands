@@ -1,0 +1,54 @@
+body{
+    background-color: thistle;
+}
+
+p{
+font-size: 30px;
+color: #0b0652;
+text-align: center;
+}
+
+.box{
+    border-width: 5px;
+    border: solid slateblue;
+    width: 500px;
+    margin: 50px;
+    padding: 50px;
+    align-self: center;
+}
+
+nav{
+    font-family: 'Caveat', cursive;
+    color: rgb(3, 28, 73);
+    text-align: start;
+}
+
+.nav{
+    background-color: slategray;
+
+}
+
+.nav a{
+    display: block;
+    background-color: rgb(48, 56, 63));
+    color: rgb(227, 237, 255);
+}
+
+.nav a:hover{
+    background-color: rgb(49, 45, 68);
+    color: rgb(226, 236, 238);
+}
+
+.nav{
+    <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+</style>
+}

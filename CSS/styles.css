@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(235, 242, 245);
+}
+
+h1{
+    font-size: 45px;
+    color: midnightblue;
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    padding: 50px;
+}
+
+img{
+    width: 350px;
+    height: 200px;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(3, 28, 73);
+    font-family: 'Caveat', cursive;
+    text-align: start;
+}
+
+nav{
+    font-family: 'Caveat', cursive;
+    color: rgb(3, 28, 73);
+}
+
+.nav{
+    background-color: slategray;
+
+}
+
+.nav a{
+    display: block;
+    background-color: rgb(48, 56, 63));
+    color: rgb(227, 237, 255);
+}
+
+.nav a:hover{
+    background-color: rgb(49, 45, 68);
+    color: rgb(226, 236, 238);
+}
